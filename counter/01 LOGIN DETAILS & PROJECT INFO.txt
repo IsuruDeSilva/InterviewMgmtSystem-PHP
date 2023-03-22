@@ -1,0 +1,15 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: interview**
+
+**Developed by Salihan Mridha**
+
+**Recommended PHP Version 7.4.12**
+
+
+**Admin Login Details**
+
+Email   : anthony@gmail.com
+Password: password
+
+

@@ -1,0 +1,13 @@
+Developed by Isuru De Silva
+
+**Database Name: interview**
+
+**Recommended PHP Version 7.4.12**
+
+
+**Admin Login Details**
+
+Email   : anthony@gmail.com
+Password: password
+
+
